@@ -68,7 +68,7 @@ However, the resulting function can be hard to understand:
 square2
 ```
 
-You can make functions that are easier to understand, but building the function factory is much more difficulty (from [Advanced R by Hadley Wickham (2nd Edition), 19.7.4: Creating functions](https://adv-r.hadley.nz/quasiquotation.html#new-function)): 
+You can make functions that are easier to understand, but building the function factory is much more difficult (from [Advanced R by Hadley Wickham (2nd Edition), 19.7.4: Creating functions](https://adv-r.hadley.nz/quasiquotation.html#new-function)): 
 
 ```{r power3}
 power3 <- function(exp) {
